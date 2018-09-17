@@ -1,0 +1,24 @@
+_repo: Harry-HardingMessenger-45_52578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raymond, Alfred
+    gutenberg_agent_id: '46939'
+    url: http://www.gutenberg.org/2009/agents/46939
+description: ''
+gutenberg_issued: '2016-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Department stores -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: Harry Harding—Messenger "45"
+url: http://www.gutenberg.org/ebooks/52578
